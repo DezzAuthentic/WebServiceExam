@@ -1,0 +1,23 @@
+{
+  "annotations": {
+    "changelogDate": "20240403183448"
+  },
+  "clientRootFolder": "webservicedayfinder",
+  "databaseType": "sql",
+  "dto": "mapstruct",
+  "entityTableName": "calendar_day",
+  "fields": [
+    {
+      "fieldName": "date",
+      "fieldType": "LocalDate"
+    }
+  ],
+  "jpaMetamodelFiltering": false,
+  "microserviceName": "webservicedayfinder",
+  "name": "CalendarDay",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "serviceClass"
+}
